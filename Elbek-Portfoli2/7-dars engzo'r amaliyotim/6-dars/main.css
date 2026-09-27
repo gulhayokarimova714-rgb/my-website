@@ -1,0 +1,27 @@
+.wrapper{
+  display: inline-block;
+  border: 3px solid black;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  margin-left: 30px;
+}
+.pic{
+  width:200px ;
+  height: 200px;
+  border: radius 100%;
+  margin: 0 auto;
+}
+.wrapper-title{
+  color: aqua;
+}
+.wrapper-link{
+  background-color: aqua;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 15px;
+}
+.box{
+  margin: 50px;
+}
